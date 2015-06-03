@@ -1,6 +1,6 @@
 # myblog
-this is my blog, also is my first program.
+Welcome to my first blog, thanks.
 
-Hi humans
-
-This is a test
+Hi humans, 
+  
+  This is my blog, and where is your?
